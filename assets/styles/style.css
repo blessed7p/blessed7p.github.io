@@ -354,6 +354,11 @@ footer .container-main .list-contact i {
         font-size: 22px;
     }
 
+    header .container-title .title,
+    header .container-menu .container-mobile button {
+        font-size: 18px;
+    }
+
     .container-start {
         flex-direction: column-reverse;
         align-items: center;
